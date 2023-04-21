@@ -28,7 +28,7 @@ namespace gd2
             {
                 Console.WriteLine("wrong number");
             }
-            Console.WriteLine(Math.Sqrt((a + b + c) / 2 + (a - b + c) / 2 + (a + b - c) / 2 + (-a + b + c) / 2));
+            Console.WriteLine(Math.Round(Math.Sqrt((a + b + c) / 2 + (a - b + c) / 2 + (a + b - c) / 2 + (-a + b + c) / 2),2));
         }
     }
 }
