@@ -1,0 +1,8 @@
+C:\Users\37533\Desktop\C#\gd2\gd2\bin\Debug\gd2.exe.config
+C:\Users\37533\Desktop\C#\gd2\gd2\bin\Debug\gd2.exe
+C:\Users\37533\Desktop\C#\gd2\gd2\bin\Debug\gd2.pdb
+C:\Users\37533\Desktop\C#\gd2\gd2\obj\Debug\gd3.csproj.AssemblyReference.cache
+C:\Users\37533\Desktop\C#\gd2\gd2\obj\Debug\gd3.csproj.SuggestedBindingRedirects.cache
+C:\Users\37533\Desktop\C#\gd2\gd2\obj\Debug\gd3.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\C#\gd2\gd2\obj\Debug\gd2.exe
+C:\Users\37533\Desktop\C#\gd2\gd2\obj\Debug\gd2.pdb
